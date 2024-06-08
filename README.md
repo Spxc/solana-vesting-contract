@@ -1,4 +1,7 @@
 # Solana Vested Funds
+[![NodeJS](https://github.com/Spxc/solana-vesting-contract/actions/workflows/node.yml/badge.svg?branch=main)](https://github.com/Spxc/solana-vesting-contract/actions/workflows/node.yml)
+[![Rust](https://github.com/Spxc/solana-vesting-contract/actions/workflows/rust.yml/badge.svg)](https://github.com/Spxc/solana-vesting-contract/actions/workflows/rust.yml)
+
 Supports SPL tokens, so you can vest custom tokens
 
 ## Prerequisite
