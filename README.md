@@ -18,6 +18,13 @@ Supports SPL tokens, so you can vest custom tokens
 npx mocha dist/client.test.js --timeout 10000
 ```
 
+## Todo
+- [x] Write contract
+- [x] Write nodejs client
+- [x] Write nodejs tests
+- [ ] Add support for env variables
+- [ ] Write GHA CD/CI
+
 ## Contribution
 .
 
