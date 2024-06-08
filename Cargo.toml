@@ -1,0 +1,12 @@
+[package]
+name = "vote-doge-vesting-program"
+version = "0.1.0"
+edition = "2024"
+
+# The following fields are specific to Solana programs
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-sdk = "1.7"
+solana-security-txt = "1.1.1"
