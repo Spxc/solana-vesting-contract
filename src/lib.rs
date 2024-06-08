@@ -1,7 +1,7 @@
 /**
  * @title Vesting Smart Contract
  * @version 1.0.0
- * @date 2024-06-04
+ * @date 2024-06-08
  * @license MIT
  *
  * @summary
@@ -19,7 +19,8 @@
  * - Scarcity-pretend (Spxc)
  *
  * @changelog
- * - 2024-06-04: Initial version with vesting and claim functionality.
+ * - 2024-06-08: Added vesting and claim functionality.
+ * - 2024-06-04: Initial version
  */
 use solana_program::{
     account_info::{next_account_info, AccountInfo},
